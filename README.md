@@ -2,7 +2,10 @@
 Javascript Plugin for Table Multi Columns Filter
 
 # Installation
-<script type="text/javascript" src="TableFilter.js"></script>
+```html
+<script type="text/javascript" src="TableFilter.min.js"></script>
+```
+
 
 # Usage
 ```html
