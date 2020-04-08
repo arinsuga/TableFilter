@@ -5,6 +5,7 @@ Javascript Plugin for Table Multi Columns Filter
 <script type="text/javascript" src="TableFilter.js"></script>
 
 # Usage
+```html
 <div style="margin-bottom: 20px;">
 
     <!-- Filter for table column index 0 -->
@@ -51,3 +52,4 @@ Javascript Plugin for Table Multi Columns Filter
         </tr>
     </tbody>
 </table>
+```
